@@ -1,0 +1,37 @@
+{
+  "name": "shinomy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/voice": "^0.9.0",
+    "@vitalets/google-translate-api": "^8.0.0",
+    "ascii-table": "^0.0.9",
+    "bitly": "^7.1.2",
+    "chalk": "^5.0.1",
+    "common-tags": "^1.8.2",
+    "crypto-js": "^4.1.1",
+    "discord.js": "^13.6.0",
+    "encryptor-js": "^0.2.1",
+    "ffmpeg": "^0.0.4",
+    "fs": "^0.0.1-security",
+    "google-translate-api": "^2.3.0",
+    "mongo": "^0.1.0",
+    "mongodb": "^4.6.0",
+    "mongoose": "^6.3.3",
+    "mongoose-unique-validator": "^3.0.0",
+    "node-mailer": "^0.1.1",
+    "nodemon": "^2.0.16",
+    "path": "^0.12.7",
+    "prism-media": "^2.0.0-alpha.0",
+    "prompt": "^1.3.0",
+    "quick.db": "^7.1.3",
+    "translate": "^1.4.1"
+  }
+}
